@@ -16,6 +16,6 @@
 */
 
 var e = document.createElement("div");
-e.id = "adtest";
+e.id = "check";
 e.style.display = "none";
 document.body.appendChild(e);

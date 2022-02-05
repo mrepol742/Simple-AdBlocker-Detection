@@ -15,7 +15,7 @@
 * limitations under the License.
 */
 
-if (!document.getElementById("adtest")) {
+if (!document.getElementById("check")) {
     var e = document.createElement("h2");
     e.id = "wht";
     e.innerHTML = "Please Disable Your Adblocker or Whitelisted this site";
